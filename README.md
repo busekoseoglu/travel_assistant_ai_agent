@@ -12,7 +12,7 @@ This is an intelligent travel assistant built with Python, LangChain, and Stream
   3.  Gracefully handles failures with a fallback mechanism.
 - **Geographically Aware:** Uses geocoding to prevent irrelevant, out-of-city suggestions.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## How to Run
 1.  Clone the repository.
